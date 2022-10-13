@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "nama": "Rezha",
+        "alamat": "Los Angeles",
+        "pekerjaan": "Software Engineer",
+        "alasan": "Mencoba Belajar hack satelit dengan Golang"
+    },
+    {
+        "id": 2,
+        "nama": "Harianto",
+        "alamat": "Jakarta Selatan",
+        "pekerjaan": "Quality Ansurance",
+        "alasan": "Mencoba Belajar bahasa Golang Untuk Qa/Qc lebih baik"
+    },
+    {   
+        "id": 3,
+        "nama": "Adi Nugroho",
+        "alamat": "Kabupaten Bogor",
+        "pekerjaan": "Backend Developer",
+        "alasan": "Mencoba Belajar bahasa Golang Untuk tambah pengalaman"
+    },
+    {
+        "id": 4,
+        "nama": "Muhamad Sumbul",
+        "alamat": "Aceh",
+        "pekerjaan": "IT Security",
+        "alasan": "Belajar golang untuk menambah wawasan tentang security jika aplikasi di buat menggunakan golang"
+    },
+    {
+        "id": 5,
+        "nama": "Bambang",
+        "alamat": "California",
+        "pekerjaan": "Frontend Developer",
+        "alasan": "Membuat frontend dengan Golang"
+    },
+    {
+        "id": 6,
+        "nama": "Christian Ronaldo",
+        "alamat": "Tegal",
+        "pekerjaan": "Fullstack Developer",
+        "alasan": "Ingin membuat epp server menggunakan golang"
+    }
+]
