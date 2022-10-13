@@ -1,3 +1,3 @@
-module hacktiv8-golang/assignment/Assignment
+module assignment-1/Assignment
 
 go 1.19
